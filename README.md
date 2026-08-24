@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/hero.svg" width="100%" alt="KopiksHateWho Hero"/></div>---
+<div align="center"><img src="hero.svg" width="100%" alt="KopiksHateWho Hero"/></div>---
 
 👋 About Me
 
@@ -52,11 +52,11 @@ My main interests outside development:
 
 ---
 
-<div align="center"><img src="./assets/personality.svg" width="800" alt="Personality"/></div>---
+<div align="center"><img src="personality.svg" width="800" alt="Personality"/></div>---
 
 🚀 What I'm Working On
 
-<div align="center"><img src="./assets/currently-working.svg" width="100%" alt="Currently Working"/></div>🧾 Locally Cashier
+<div align="center"><img src="currently-working.svg" width="100%" alt="Currently Working"/></div>🧾 Locally Cashier
 
 🟢 Active Development
 
@@ -92,7 +92,7 @@ The project has been completed and refined together with my teammate, and we're 
 
 🧪 QA Journey
 
-<div align="center"><img src="./assets/qa-journey.svg" width="100%" alt="QA Journey"/></div>Quality Assurance is one of the areas I'm actively exploring.
+<div align="center"><img src="qa-journey.svg" width="100%" alt="QA Journey"/></div>Quality Assurance is one of the areas I'm actively exploring.
 
 I'm learning that QA isn't simply about finding bugs.
 
@@ -201,7 +201,7 @@ Area| Current Focus
 
 🗺️ Development Journey
 
-<div align="center"><img src="./assets/journey.svg" width="100%" alt="Development Journey"/></div>My current development philosophy is pretty simple:
+<div align="center"><img src="journey.svg" width="100%" alt="Development Journey"/></div>My current development philosophy is pretty simple:
 
 Build → Test → Break → Fix → Learn → Repeat
 
@@ -236,7 +236,7 @@ And that's part of the journey.
 
 🎬 Anime.exe
 
-<div align="center"><img src="./assets/anime.svg" width="900" alt="Anime"/></div>❤️ Favorites
+<div align="center"><img src="anime.svg" width="900" alt="Anime"/></div>❤️ Favorites
 
 - Darling in the Franxx
 - Re:Zero
@@ -247,7 +247,7 @@ And that's part of the journey.
 
 🎧 My Soundtrack
 
-<div align="center"><img src="./assets/music.svg" width="900" alt="Music"/></div>Artists I Listen To
+<div align="center"><img src="music.svg" width="900" alt="Music"/></div>Artists I Listen To
 
 - Bring Me The Horizon
 - My Chemical Romance
@@ -274,7 +274,7 @@ And that's part of the journey.
 
 🧩 Random Fact
 
-<div align="center"><img src="./assets/personality.svg" width="800" alt="Personality"/></div>Yes.
+<div align="center"><img src="personality.svg" width="800" alt="Personality"/></div>Yes.
 
 I overthink everything.
 
@@ -323,7 +323,7 @@ I'll keep fixing them.
 Because I don't need to know exactly where I'm going
 to keep moving forward.
 
-<div align="center"><img src="./assets/footer.svg" width="100%" alt="Footer"/><br>"Still figuring things out. Still building anyway."
+<div align="center"><img src="footer.svg" width="100%" alt="Footer"/><br>"Still figuring things out. Still building anyway."
 
 <br><sub>Built with curiosity • caffeine • commits • and a little bit of overthinking.</sub>
 
