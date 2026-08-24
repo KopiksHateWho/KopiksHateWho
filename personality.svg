@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+<rect width="800" height="250" rx="20" fill="#090b12" stroke="#ff4d6d" stroke-opacity=".35"/>
+<text x="40" y="48" fill="#ff4d6d" font-family="monospace" font-size="16">$ personality.exe</text>
+<text x="40" y="90" fill="white" font-family="monospace" font-size="25" font-weight="700">I OVERTHINK EVERYTHING.</text>
+<rect x="40" y="118" width="720" height="12" rx="6" fill="#20222c"/>
+<rect x="40" y="118" width="690" height="12" rx="6" fill="#ff4d6d"/>
+<text x="40" y="160" fill="#c8c8d0" font-family="monospace" font-size="14">Curiosity        [████████████████████] ONLINE</text>
+<text x="40" y="185" fill="#c8c8d0" font-family="monospace" font-size="14">Overthinking     [████████████████████] 100%</text>
+<text x="40" y="210" fill="#c8c8d0" font-family="monospace" font-size="14">Learning         [████████████████████] ALWAYS</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+<rect width="900" height="280" rx="20" fill="#090b12" stroke="#ff4d6d" stroke-opacity=".35"/>
+<text x="40" y="50" fill="#ff4d6d" font-family="monospace" font-size="16">$ soundtrack</text>
+<text x="40" y="95" fill="white" font-family="monospace" font-size="27" font-weight="700">CURRENTLY LIVING IN MY HEADPHONES</text>
+<text x="55" y="145" fill="#c8c8d0" font-family="monospace" font-size="17">♫ Bring Me The Horizon</text>
+<text x="55" y="178" fill="#c8c8d0" font-family="monospace" font-size="17">♫ My Chemical Romance</text>
+<text x="430" y="145" fill="#c8c8d0" font-family="monospace" font-size="17">♫ Secondhand Serenade</text>
+<text x="430" y="178" fill="#c8c8d0" font-family="monospace" font-size="17">♫ Radiohead</text>
+<text x="55" y="225" fill="#ff8fa3" font-family="monospace" font-size="14">&gt; sometimes the right song makes debugging less painful.</text>
+</svg>

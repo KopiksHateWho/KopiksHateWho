@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+<defs><linearGradient id="g"><stop stop-color="#ff4d6d"/><stop offset="1" stop-color="#ff9aaa"/></linearGradient></defs>
+<rect width="1200" height="160" rx="22" fill="#090b12"/>
+<path d="M0 115 Q300 55 600 115 T1200 115" fill="none" stroke="url(#g)" stroke-width="2" opacity=".5"/>
+<text x="600" y="72" text-anchor="middle" fill="white" font-family="monospace" font-size="24">Still figuring things out. Still building anyway.</text>
+<text x="600" y="105" text-anchor="middle" fill="#ff8fa3" font-family="monospace" font-size="14">built with curiosity • caffeine • commits • overthinking</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+<rect width="1000" height="280" rx="20" fill="#090b12" stroke="#ff4d6d" stroke-opacity=".35"/>
+<text x="45" y="55" fill="#ff4d6d" font-family="monospace" font-size="17">$ development-journey</text>
+<text x="45" y="95" fill="white" font-family="monospace" font-size="28" font-weight="700">BUILD → TEST → BREAK → FIX → LEARN → REPEAT</text>
+<g font-family="monospace" font-size="14" text-anchor="middle">
+<g fill="#ff4d6d">
+<circle cx="90" cy="165" r="28"/><circle cx="260" cy="165" r="28"/><circle cx="430" cy="165" r="28"/><circle cx="600" cy="165" r="28"/><circle cx="770" cy="165" r="28"/><circle cx="920" cy="165" r="28"/>
+</g>
+<g fill="#fff">
+<text x="90" y="170">01</text><text x="260" y="170">02</text><text x="430" y="170">03</text><text x="600" y="170">04</text><text x="770" y="170">05</text><text x="920" y="170">06</text>
+</g>
+<g fill="#c8c8d0">
+<text x="90" y="215">BUILD</text><text x="260" y="215">TEST</text><text x="430" y="215">BREAK</text><text x="600" y="215">FIX</text><text x="770" y="215">LEARN</text><text x="920" y="215">REPEAT</text>
+</g></g>
+</svg>

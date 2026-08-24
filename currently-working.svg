@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+<rect width="1000" height="430" rx="20" fill="#090b12" stroke="#ff4d6d" stroke-opacity=".35"/>
+<text x="45" y="55" fill="#ff4d6d" font-family="monospace" font-size="17">$ currently-working</text>
+<text x="45" y="92" fill="white" font-family="monospace" font-size="28" font-weight="700">CURRENT DEVELOPMENT STATUS</text>
+<circle cx="905" cy="48" r="7" fill="#ff4d6d"/>
+<text x="925" y="55" fill="#ff8fa3" font-family="monospace" font-size="14">LIVE</text>
+<text x="55" y="150" fill="white" font-family="monospace" font-size="21">🧾 LOCALLY CASHIER</text>
+<text x="55" y="180" fill="#ff8fa3" font-family="monospace" font-size="14">● ACTIVE DEVELOPMENT</text>
+<text x="55" y="220" fill="#c8c8d0" font-family="monospace" font-size="15">UI / UX</text>
+<rect x="180" y="207" width="650" height="16" rx="8" fill="#20222c"/>
+<rect x="180" y="207" width="560" height="16" rx="8" fill="#ff4d6d"/>
+<text x="850" y="220" fill="#c8c8d0" font-family="monospace" font-size="13">DONE</text>
+<text x="55" y="260" fill="#c8c8d0" font-family="monospace" font-size="15">BUG FIXING</text>
+<rect x="180" y="247" width="650" height="16" rx="8" fill="#20222c"/>
+<rect x="180" y="247" width="520" height="16" rx="8" fill="#ff4d6d"/>
+<text x="850" y="260" fill="#c8c8d0" font-family="monospace" font-size="13">ACTIVE</text>
+<text x="55" y="300" fill="#c8c8d0" font-family="monospace" font-size="15">INVOICE</text>
+<rect x="180" y="287" width="650" height="16" rx="8" fill="#20222c"/>
+<rect x="180" y="287" width="300" height="16" rx="8" fill="#ff8fa3"/>
+<text x="850" y="300" fill="#c8c8d0" font-family="monospace" font-size="13">NEXT</text>
+<line x1="45" y1="335" x2="955" y2="335" stroke="#292b36"/>
+<text x="55" y="370" fill="white" font-family="monospace" font-size="18">♻️ TRASHIFY AI</text>
+<text x="55" y="398" fill="#b8f2d0" font-family="monospace" font-size="14">● COMPLETED — AI WASTE CLASSIFICATION</text>
+</svg>

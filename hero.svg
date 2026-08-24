@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#090b12"/><stop offset=".55" stop-color="#160b14"/><stop offset="1" stop-color="#090b12"/></linearGradient>
+  <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff4d6d"/><stop offset="1" stop-color="#ff8fa3"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="300" rx="24" fill="url(#bg)" stroke="#ff4d6d" stroke-opacity=".35"/>
+<circle cx="120" cy="70" r="90" fill="#ff4d6d" opacity=".08" filter="url(#glow)"/>
+<circle cx="900" cy="230" r="120" fill="#ff4d6d" opacity=".06"/>
+<text x="55" y="82" fill="#ff4d6d" font-family="monospace" font-size="18">$ who_am_i.exe</text>
+<text x="55" y="145" fill="white" font-family="monospace" font-weight="700" font-size="48">KopiksHateWho</text>
+<text x="58" y="182" fill="#c8c8d0" font-family="monospace" font-size="20">Student • Intern • Developer in Progress</text>
+<text x="58" y="225" fill="#ff8fa3" font-family="monospace" font-size="18">Still figuring things out. Still building anyway.</text>
+<text x="58" y="260" fill="#777984" font-family="monospace" font-size="14">AI  /  QA  /  Software Development  /  Learning</text>
+<circle cx="935" cy="55" r="6" fill="#ff4d6d"/>
+<circle cx="958" cy="55" r="6" fill="#ff8fa3" opacity=".6"/>
+</svg>
