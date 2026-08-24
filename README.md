@@ -1,222 +1,193 @@
-<div align="center">"KopiksHateWho"
+<div align="center"><img src="./assets/hero.svg" width="100%" alt="KopiksHateWho Hero"/></div>---
 
-Still figuring things out. Still building anyway.
+👋 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Student+%7C+Intern+%7C+Developer+in+Progress;Building+%E2%86%92+Testing+%E2%86%92+Breaking+%E2%86%92+Fixing;Exploring+AI%2C+Software+Development+%26+QA;Every+project+teaches+me+something+new.;Still+figuring+things+out.+Still+building+anyway." alt="Typing SVG" /><br><img src="https://komarev.com/ghpvc/?username=KopiksHateWho&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views"/></div>---
+Hey! I'm KopiksHateWho.
 
-👋 Hey, I'm KopiksHateWho
+I'm a student and intern currently exploring the world of software development, artificial intelligence, and quality assurance.
 
-I'm a student and intern who enjoys building things, experimenting with technology, and figuring out how software works behind the screen.
+I'm not trying to define myself as one specific type of developer yet.
 
-I'm currently exploring different areas of technology rather than limiting myself to a single path.
+I'm still exploring.
 
-Sometimes I'm building an application.
+Sometimes I'm building applications.
 
-Sometimes I'm training an AI model.
+Sometimes I'm training AI models.
 
 Sometimes I'm testing software and trying to understand why something broke.
 
-And sometimes...
+And sometimes I'm just staring at my code wondering:
 
-I'm just staring at the code wondering why it worked five minutes ago. 💀
+«"Why did this work five minutes ago?" 💀»
 
 I'm still figuring out what kind of developer I want to become — and honestly, I'm okay with that.
 
-Every project gives me something new to learn.
+Every project teaches me something new.
 
 Every bug gives me something new to understand.
 
-Every mistake gives me another opportunity to become better.
+Every mistake gives me another opportunity to improve.
 
-«"Still figuring things out. Still building anyway."»
+"Still figuring things out. Still building anyway."
 
 ---
 
 🧑‍💻 Personal Profile
 
-<table>
-<tr>
-<td width="50%">About Me
+| 
+👤 Username| "KopiksHateWho"
+🧑 Pronouns| He / Him
+🎓 Status| Student · Intern
+📍 Location| Surabaya, Indonesia
+💻 Role| Developer in Progress
+🧪 Exploring| Quality Assurance
+🤖 Interested In| Artificial Intelligence
+🌱 Main Goal| Keep growing
 
-- 👤 Username: "KopiksHateWho"
-- 🧑 Pronouns: He / Him
-- 🎓 Status: Student · Intern
-- 📍 Based in: Surabaya, Indonesia
-- 💻 Current Role: Developer in Progress
-- 🧪 Also Exploring: Quality Assurance
-- 🤖 Interested In: Artificial Intelligence
-- 🌱 Main Goal: Keep growing
+🎮 Outside the Code
 
-</td><td width="50%">Interests
+My main interests outside development:
 
-🎮 Gaming
-🎬 Anime
-💻 Coding
-🤖 Artificial Intelligence
-🧪 Quality Assurance
-🧠 Learning Technology
-🚀 Building Projects
+"🎮 Gaming" · "🎬 Anime" · "💻 Coding"
 
-Personality.exe
+---
 
-> loading personality...
-
-████████████████████ 100%
-
-I overthink everything.
-
-[system status]
-Curious       : ONLINE
-Overthinking  : 100%
-Learning      : ALWAYS
-Giving up     : OFF
-
-</td>
-</tr>
-</table>---
+<div align="center"><img src="./assets/personality.svg" width="800" alt="Personality"/></div>---
 
 🚀 What I'm Working On
 
-<div align="center">"CURRENT DEVELOPMENT STATUS"
+<div align="center"><img src="./assets/currently-working.svg" width="100%" alt="Currently Working"/></div>🧾 Locally Cashier
 
-</div><table>
-<tr>
-<td width="50%">🧾 Locally Cashier
-
-🟢 ACTIVE DEVELOPMENT
+🟢 Active Development
 
 A modern cashier application focused on creating a practical and clean experience for managing sales.
 
-Current Progress
-
-UI / UX              ████████████████████  DONE
-Transaction System   ████████████████████  DONE
-Core Features        ███████████████████░  ACTIVE
-Bug Fixing           ██████████████████░░  ACTIVE
-Invoice System       ████████████░░░░░░░░  NEXT
-Refinement           ███████████████░░░░░  ACTIVE
-
 Current focus:
 
-- 🔧 Fixing bugs
-- 🧾 Developing invoice functionality
+- 🔧 Bug fixing
+- 🧾 Invoice functionality
 - ✨ Refining the overall experience
 - 🧪 Testing features
-- 🚀 Preparing the application for a better final experience
+- 🚀 Improving the application
 
-</td><td width="50%">♻️ Trashify AI
+Current progress:
 
-🟣 COMPLETED
+"UI ✅" · "Transactions ✅" · "Bug Fixing 🔧" · "Invoice 🚧" · "Refinement 🔄"
+
+---
+
+♻️ Trashify AI
+
+🟣 Completed
 
 An AI-powered waste classification project created for a competition.
 
 The project uses computer vision to classify different types of waste.
 
-Project Status
+The project has been completed and refined together with my teammate, and we're both happy with the result.
 
-AI Model             ████████████████████  DONE
-Classification       ████████████████████  DONE
-Dataset              ████████████████████  DONE
-Training             ████████████████████  DONE
-Testing              ████████████████████  DONE
-Final Result         ████████████████████  DONE
+"AI Model ✅" · "Dataset ✅" · "Training ✅" · "Classification ✅" · "Testing ✅"
 
-«Built together with a teammate, tested, refined, and reached a result that we're both happy with.»
+---
 
-</td>
-</tr>
-</table>---
+🧪 QA Journey
 
-🧪 My QA Journey
+<div align="center"><img src="./assets/qa-journey.svg" width="100%" alt="QA Journey"/></div>Quality Assurance is one of the areas I'm actively exploring.
 
-Quality Assurance is another area I'm actively exploring.
+I'm learning that QA isn't simply about finding bugs.
 
-I'm learning that testing isn't simply about finding bugs.
+It's about understanding how software behaves, how problems happen, how to investigate them, and how to communicate technical problems clearly.
 
-It's about understanding how software behaves, how problems happen, how to communicate them clearly, and how to think about the system from different perspectives.
+Currently Exploring
 
-Currently Learning
+- 🧪 Software Testing
+- 📋 Test Case Design
+- 🐛 Bug Analysis
+- 🔄 Regression Testing
+- 🔥 Smoke Testing
+- ⚠️ Severity & Priority
+- 🔍 Root Cause Investigation
+- 📊 Test Documentation
+- 🤖 Automation Testing
+- 🧠 Technical Terminology
 
-🧪 Software Testing
-📋 Test Case Design
-🐛 Bug Analysis
-🔄 Regression Testing
-🔥 Smoke Testing
-⚠️ Severity & Priority
-🔍 Root Cause Investigation
-📊 Test Documentation
-🤖 Automation Testing
-🧠 Technical Terminology
+🧠 Technical Language
 
-Technical Language Progress
-
-One of my current goals is to become more comfortable with technical language.
+One of my current goals is becoming more comfortable with technical language.
 
 «I don't just want to know what something does.
 
 I want to understand why it works that way.»
 
-I'm continuously training myself to understand technical conversations, documentation, system architecture, bugs, APIs, databases, and development workflows.
+I'm continuously training myself to understand technical conversations, documentation, system architecture, APIs, databases, bugs, and development workflows.
 
 ---
 
 🧠 Learning Philosophy
 
-I don't really have a fixed list of technologies that I "only" want to learn.
+I don't have a fixed list of technologies that I only want to learn.
 
-Instead:
+Instead, every new project becomes another opportunity to learn something new.
 
-New Project
-     ↓
-New Problem
-     ↓
-New Technology
-     ↓
-Learn It
-     ↓
-Build Something
-     ↓
-Break Something
-     ↓
-Fix It
-     ↓
-Understand It
-     ↓
-Repeat
+<div align="center">NEW PROJECT
+     │
+     ▼
+NEW PROBLEM
+     │
+     ▼
+NEW TECHNOLOGY
+     │
+     ▼
+LEARN IT
+     │
+     ▼
+BUILD SOMETHING
+     │
+     ▼
+BREAK SOMETHING 💀
+     │
+     ▼
+FIX IT
+     │
+     ▼
+UNDERSTAND IT
+     │
+     ▼
+REPEAT
 
-Every project is basically another excuse to learn something new.
+</div>«Every project teaches me something new.»
 
 ---
 
-🛠️ Technologies & Tools
+🛠️ Tech Stack
 
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,rust" />
-</p>Frameworks & Development
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,rust" alt="Languages"/>
+</p>Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tauri" />
-</p>AI & Data
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,tauri" alt="Development"/>
+</p>AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>Database & Infrastructure
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="AI"/>
+</p>Database / Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,aws" alt="Database and Cloud"/>
 </p>Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>«My stack is still evolving. I learn whatever is necessary to turn an idea into something that actually works.»
 
 ---
 
-📚 Things I'm Exploring
+📚 What I'm Exploring
 
-<div align="center">Area| Current Focus
+Area| Current Focus
 🤖 AI| Computer Vision · Model Training
 🧪 QA| Software Testing · Regression · Automation
 💻 Development| Web Applications · Full-Stack Concepts
@@ -224,77 +195,33 @@ Languages
 🔐 Authentication| OAuth · Login Systems
 ⚙️ Backend| APIs · Business Logic
 🚀 Deployment| Cloud · Hosting · Deployment
-🧠 Technical Skills| Understanding technical terminology
-
-</div>---
-
-🗺️ My Development Journey
-
-                         2026
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │   Start Building │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │   Explore AI     │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │   Learn QA       │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │ Build Projects   │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │ Break Things 💀  │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │   Fix Things     │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │ Learn Something  │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │   Build Again    │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                       TO BE
-                     CONTINUED...
+🧠 Technical Skills| Technical terminology & system understanding
 
 ---
 
-🎯 My Long-Term Goal
+🗺️ Development Journey
 
-I don't have a perfectly defined destination yet.
+<div align="center"><img src="./assets/journey.svg" width="100%" alt="Development Journey"/></div>My current development philosophy is pretty simple:
 
-And that's okay.
+Build → Test → Break → Fix → Learn → Repeat
 
-My current goal is simple:
+I'm not trying to become perfect.
+
+I'm trying to become better than I was yesterday.
+
+---
+
+🎯 Long-Term Goal
 
 <div align="center">🌱 Become a better version of myself.
 
-</div>Not just as a developer.
+</div>I don't have a perfectly defined destination yet.
 
-Not just as a student.
+And that's okay.
 
-Not just as someone learning technology.
+My goal isn't only to become better at coding.
 
-But as a person who keeps improving, keeps learning, and keeps moving forward.
+I want to keep growing as a person, keep learning new things, become more confident with technical knowledge, and continue challenging myself.
 
 There is no "final version" of me yet.
 
@@ -307,105 +234,72 @@ And that's part of the journey.
 
 ---
 
-📊 GitHub Statistics
+🎬 Anime.exe
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KopiksHateWho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KopiksHateWho&layout=compact&theme=tokyonight&hide_border=true" height="180"/></div>---
+<div align="center"><img src="./assets/anime.svg" width="900" alt="Anime"/></div>❤️ Favorites
 
-🔥 Contribution Streak
+- Darling in the Franxx
+- Re:Zero
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=KopiksHateWho&theme=tokyonight&hide_border=true" /></div>---
-
-🐍 Contribution Snake
-
-<div align="center"><img src="https://raw.githubusercontent.com/KopiksHateWho/KopiksHateWho/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>«If the snake isn't showing yet, the GitHub Actions workflow needs to be configured in this profile repository.»
-
----
-
-🎮 Outside of Code
-
-Coding isn't the only thing I enjoy.
-
-🎮 Gaming
-
-Games are one of my favorite ways to relax, explore different worlds, and occasionally lose track of time.
-
-🎬 Anime
-
-Two of my favorites:
-
-Darling in the Franxx ❤️
-Re:Zero 🕰️
-
-Anime.exe
-
-████████████████████ 100%
-
-Currently installed:
-> Darling in the Franxx
-> Re:Zero
-
-Status:
-> emotionally damaged
+«"status: emotionally damaged, still coding."»
 
 ---
 
 🎧 My Soundtrack
 
-<div align="center">"CURRENTLY LIVING IN MY HEADPHONES"
+<div align="center"><img src="./assets/music.svg" width="900" alt="Music"/></div>Artists I Listen To
 
-</div>♫ Bring Me The Horizon
-♫ My Chemical Romance
-♫ Secondhand Serenade
-♫ Radiohead
+- Bring Me The Horizon
+- My Chemical Romance
+- Secondhand Serenade
+- Radiohead
 
-«Sometimes the right song makes debugging feel slightly less painful.»
-
----
-
-💭 Random Fact
-
-┌──────────────────────────────────────────┐
-│              RANDOM FACT                 │
-│                                          │
-│  I overthink everything.                 │
-│                                          │
-│  Code? Overthink.                        │
-│  Design? Overthink.                      │
-│  Project idea? Definitely overthink.     │
-│                                          │
-│  But somehow...                          │
-│                                          │
-│  It usually turns into another project. │
-└──────────────────────────────────────────┘
+«Sometimes the right song makes debugging slightly less painful.»
 
 ---
 
-🧩 Current Mindset
+📊 GitHub Stats
 
-<div align="center">BUILD
-  ↓
-TEST
-  ↓
-BREAK
-  ↓
-QUESTION EVERYTHING
-  ↓
-FIX
-  ↓
-LEARN
-  ↓
-IMPROVE
-  ↓
-BUILD AGAIN
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KopiksHateWho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KopiksHateWho&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/></div>---
 
-"Keep moving forward."
+🔥 Contribution Streak
 
-</div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=KopiksHateWho&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></div>---
 
-🌐 Find Me
+🐍 Contribution Snake
+
+<div align="center"><img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/></div>«If the snake doesn't appear yet, the GitHub Actions workflow needs to be configured.»
+
+---
+
+🧩 Random Fact
+
+<div align="center"><img src="./assets/personality.svg" width="800" alt="Personality"/></div>Yes.
+
+I overthink everything.
+
+Project idea?
+
+«Overthink.»
+
+UI?
+
+«Overthink.»
+
+Code?
+
+«Definitely overthink.»
+
+But somehow...
+
+it usually turns into another project.
+
+---
+
+🌐 Connect
 
 <div align="center"><a href="https://github.com/KopiksHateWho">
-<img src="https://img.shields.io/badge/GitHub-KopiksHateWho-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-KopiksHateWho-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a></div>---
 
 🪐 One Last Thing...
@@ -429,22 +323,22 @@ I'll keep fixing them.
 Because I don't need to know exactly where I'm going
 to keep moving forward.
 
-<div align="center">「 Still figuring things out. Still building anyway. 」
+<div align="center"><img src="./assets/footer.svg" width="100%" alt="Footer"/><br>"Still figuring things out. Still building anyway."
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=120&section=footer"/></div><!--
+<br><sub>Built with curiosity • caffeine • commits • and a little bit of overthinking.</sub>
+
+</div><!--
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                 EASTER EGG
+                    EASTER EGG
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-If you're reading this...
+If you're reading the source code...
 
-You looked at the source.
+You looked behind the README.
 
-I respect that.
+Respect.
 
 > I overthink everything.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
---><div align="center"><sub>Built with curiosity, caffeine, too many Git commits, and a little bit of overthinking.</sub>
-
-</div>
+-->
