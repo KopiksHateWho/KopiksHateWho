@@ -19,10 +19,10 @@ I focus on translating ideas into working products across the full stack: from P
 **[Trashify AI](https://github.com/KopiksHateWho/Trashify-AI)**
 Flask + MobileNetV2 web app that classifies waste into 10 categories using computer vision. Built for an international competition and deployed on Railway with a custom domain.
 
-**Waveform**
+**[Waveform]()**
 Cross-platform music streaming client built on a shared HTML/CSS/JS core, packaged with Tauri v2 (Rust) for desktop and Capacitor for Android.
 
-**[Premium Kasir](https://github.com/KopiksHateWho/Premium-Kasir)**
+**[Locally Chasier](https://github.com/KopiksHateWho/Premium-Kasir)**
 Point-of-sale application with a Python backend and an Expo (React Native) frontend, covering transactions, invoicing, and sales management.
 
 ---
