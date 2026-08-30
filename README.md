@@ -38,10 +38,14 @@ Point-of-sale application with a Python backend and an Expo (React Native) front
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KopiksHateWho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KopiksHateWho&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KopiksHateWho&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" width="97%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KopiksHateWho&theme=2077" width="100%" />
+</p>
+
 
 ## 🌐 Connect
 
