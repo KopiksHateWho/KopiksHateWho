@@ -8,10 +8,11 @@ I focus on translating ideas into working products across the full stack: from P
 
 ## 🔧 Currently
 
-- Working as a **QA Intern** at a fintech company, studying **ISTQB CTFL v4.0** and tools like Postman, Selenium/Playwright, and Jira
-- Building **Waveform**, a cross-platform music app (Tauri + Capacitor) sharing a single frontend across desktop and Android
+- Working as a **Intern** at a fintech company
 - Maintaining **Trashify AI**, a deployed waste-classification web app using computer vision
-
+- Building **Waveform**, a cross-platform music app (Tauri + Capacitor) sharing a single frontend across desktop and Android
+- Building **Locally Cashier** a cross-platform cashier app across desktop and Android
+- Building **ClipSense-AI** a cross-platform cliping automatically WebSite
 ---
 
 ## 🚀 Featured Projects
@@ -25,6 +26,7 @@ Cross-platform music streaming client built on a shared HTML/CSS/JS core, packag
 **[Locally Chasier](https://github.com/KopiksHateWho/Locally-Cashier)**
 Point-of-sale application with a Python backend and an Expo (React Native) frontend, covering transactions, invoicing, and sales management.
 
+**[ClipSense-AI](https://github.com/KopiksHateWho/ClipSense-AI)**
 ---
 
 ## 🛠️ Tech Stack
